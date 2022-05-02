@@ -1,0 +1,164 @@
+.left{
+    width: 50%;
+    float: left;
+    width: 500px;
+    height: 582px;
+    padding-left: 150px;
+    padding-top: 40px;
+   
+}
+.right{
+    width: 50%;
+    float: left;
+    width: 596px;
+    height: 582px;
+    
+
+    
+}
+.main-body{
+    width: 100%;
+    height: 600px;
+    background: rgb(245, 240, 240);
+}
+.fbimage{
+        width: 307px;
+        height: 120px;
+        margin-left: -48px;
+        margin-top: 146px;
+    
+    
+}
+.para{
+    width: 987px;
+    margin-left: -148px;
+    margin-top: -10px;
+}
+.para-1{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 50%;
+    margin-left: 132px;
+    margin-top: -17px;
+}
+.form-fb{
+    width: 386px;
+        height: 370px;
+        background: white;
+        margin-left: 68px;
+        margin-top: 120px;
+        border-radius: 10px;
+        -webkit-box-shadow: 3px 3px 5px 3px #ccc;  
+        -moz-box-shadow:3px 3px 5px 3px #ccc;  
+        box-shadow:3px 3px 5px 3px #ccc; 
+    }
+body{
+    margin: 0;
+}
+#inp{
+    width: 357px;
+    height: 44px;
+    border-radius: 7px;
+    margin-top: 20px;
+    margin-left: 7px;
+    font-style: inherit;
+    font-size: 16px;
+    border: 1px solid #ccc;
+
+  
+    
+}
+#inp2{
+    width: 357px;
+    height: 44px;
+    border-radius: 7px;
+    margin-top: 20px;
+    margin-left: 7px;
+  
+    font-style: inherit;
+    font-size: 16px;
+    border: 1px solid #ccc;
+   
+    
+}
+.button{
+    width: 366px;
+    height: 50px;
+    border-radius: 7px;
+    margin-top: 20px;
+    margin-left: 7px;
+    background: #387aff;
+    font-weight: bold;
+    border: none;
+    color: white;
+    font-size: 23px;
+    font-style: inherit;
+    
+}
+
+#forgot2{
+    margin-left: 115px;
+    margin-top: 10px;
+    font-style: inherit;
+    width: 50px;
+    color: #6565ff;
+    text-decoration: none;
+    
+   
+  
+}
+#forngot2:hover {
+    text-decoration: underline;
+}
+
+#forgot1{
+    
+    height: 40px;
+}
+#button1{
+    width: 200px;
+    height: 44px;
+    border-radius: 7px;
+    margin-top: 8px;
+    margin-left: 93px;
+    background: #0eb617;
+    font-weight: bold;
+    border: none;
+    color: white;
+    font-size: 15px;
+    font-style: inherit;
+    
+
+}
+#new{
+    color: white;
+    text-decoration: none;
+}
+#button1:hover {
+    background-color: rgb(45, 151, 65);
+}
+.para-4{
+    margin-left: 25px;
+    margin-top: 50px;
+    font-style: inherit;
+    
+}
+.page{
+    color: black;
+    text-decoration: none;
+    font-style: inherit;
+
+    
+}
+
+#inp:focus { 
+    outline: none !important;
+    border-color: #397ac0;
+    box-shadow: 0 0 1px #719ECE;}
+    #inp2:focus { 
+        outline: none !important;
+        border-color: #719ECE;
+        box-shadow: 0 0 1px #719ECE;}
+    
